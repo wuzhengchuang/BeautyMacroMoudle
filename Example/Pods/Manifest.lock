@@ -1,5 +1,5 @@
 PODS:
-  - BeautyMacroMoudle (0.1.0)
+  - BeautyMacroMoudle (0.0.1)
 
 DEPENDENCIES:
   - BeautyMacroMoudle (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  BeautyMacroMoudle: c1875100f3e9adb92a6affa1c60690a31b432dc9
+  BeautyMacroMoudle: 8683aad907f77d8c913fb02ee1425d050b48c028
 
 PODFILE CHECKSUM: afff9efa747088823635c50cebf7cdedecd63858
 
