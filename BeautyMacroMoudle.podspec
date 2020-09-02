@@ -11,20 +11,14 @@ Pod::Spec.new do |s|
   s.version          = '0.0.1'
   s.summary          = 'A short description of BeautyMacroMoudle.'
 
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
-
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+TODO: 美颜项目宏定义模块
                        DESC
 
   s.homepage         = 'https://github.com/wuzhengchuang/BeautyMacroMoudle'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '1244775319@qq.com' => '1244775319@qq.com' }
+  s.author           = { 'wuchuang' => '1244775319@qq.com' }
   s.source           = { :git => 'https://github.com/wuzhengchuang/BeautyMacroMoudle.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
