@@ -1,0 +1,16 @@
+PODS:
+  - BeautyMacroMoudle (0.1.0)
+
+DEPENDENCIES:
+  - BeautyMacroMoudle (from `../`)
+
+EXTERNAL SOURCES:
+  BeautyMacroMoudle:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BeautyMacroMoudle: c1875100f3e9adb92a6affa1c60690a31b432dc9
+
+PODFILE CHECKSUM: afff9efa747088823635c50cebf7cdedecd63858
+
+COCOAPODS: 1.9.2

@@ -1,0 +1,6 @@
+framework module Pods_BeautyMacroMoudle_Tests {
+  umbrella header "Pods-BeautyMacroMoudle_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
